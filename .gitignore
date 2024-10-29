@@ -1,0 +1,8 @@
+*.jsonl
+*.json
+.DS_Store
+.idea/
+__pycache__
+*.env
+*.zip
+data
